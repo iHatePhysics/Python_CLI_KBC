@@ -3,7 +3,7 @@
 
 I have coded Kaun Banega Crorepati. The idea behind is to make myselves familiar with python language.This is my first project. 
   
-  It's like a quiz game where there will be 15 questions asked from user. Every question has one correct answer. They can also go for lifelines. At the end you will display the results how much the user earned. Perform following tasks to complete the game.
+  It's like a quiz game where there will be 15 questions asked from user. Every question has one correct answer.<br>They can also go for lifelines. At the end you will display the results how much the user earned. Perform following tasks to complete the game.
   
 ### SETUP THE GAME CODE.
 
